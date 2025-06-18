@@ -42,7 +42,7 @@ Hi there 👋
 📫 Bana Ulaşın
 
 - 📧 **unalnisa03@gmail.com**  
-- 💼 [**LinkedIn Profilim**](https://www.linkedin.com/in/nisagulunal)
+- 💼 [**LinkedIn Profilim**](https://www.linkedin.com/in/nisa-ünal2003)
 - 🌍 GitHub Sayfam: [**@nisagulunal**](https://github.com/nisagulunal)
 
 
