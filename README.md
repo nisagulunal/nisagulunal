@@ -1,4 +1,4 @@
-Hi there 👋
+
 <h1 align="center">Merhaba! 👋 Ben Nisa Gül Ünal</h1>
 
 <p align="center">
